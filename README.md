@@ -2,7 +2,7 @@
 
 ## 🔍 About Me:
 
-📱 I’m currently learning Android development using Kotlin and Jetpack libraries.  
+📱 I’m currently learning Android development with Kotlin, XML, and Jetpack libraries.  
 🎯 My focus is on writing clean code, building real apps, and mastering modern Android tools.  
 🤝 I’m looking to collaborate on beginner-friendly Android projects and grow together.  
 📚 I'm diving into core Android components and learning the fundamentals of UI/UX design to build better user experiences.  
