@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmadreza - Android Developer</h1>
+<h1 align="center">Hi , I'm Ahmadreza </h1>
 
 ## 🔍 About Me:
 
